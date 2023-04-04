@@ -41,6 +41,7 @@ public class C02_RelativeLocators {
 
 
 // sayfayı kapatınız
+        
  driver.quit();
 
 
